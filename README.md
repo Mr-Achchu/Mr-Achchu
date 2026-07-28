@@ -1,66 +1,154 @@
-# 💫 About Me
-👋 I'm **Mohamed Aslam**, a passionate **React Developer** focused on **front-end development** and **UI/UX design**.  
-🚀 Skilled in JavaScript, Dart, Kotlin, Java, C++, and Flutter – I love crafting clean, efficient apps with modern design.  
-🔧 Explore my projects to see seamless user experiences in action.  
-🌱 Currently learning **React.js**, **Tailwind CSS**, and backend technologies.
+# 👋 Hi, I'm Mohamed Aslam
+
+## 🛡️ Aspiring SOC Analyst | Blue Team Enthusiast | Cybersecurity Student
+
+I'm an aspiring Security Operations Center (SOC) Analyst with a strong foundation in cybersecurity principles, threat detection, incident response, and security monitoring.
+
+I recently earned the **Google Cybersecurity Professional Certificate** and am currently pursuing a **BSc (Hons) Top-up in Cybersecurity & Networking**. My goal is to build hands-on expertise in Blue Team operations and contribute to protecting organizations against cyber threats.
 
 ---
 
-## 🌐 Connect with Me
+## 🎯 Current Focus
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/achchuak)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017309707533)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aslam-42596630a)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akaslam047@gmail.com)
+- 🛡️ SOC Analyst (Level 1)
+- 🔍 Security Monitoring & Threat Detection
+- 📊 SIEM & Log Analysis
+- 🚨 Incident Response
+- 🐧 Linux Administration
+- 🌐 Network Security
+- 📦 Digital Forensics (Learning)
+- ☁️ Microsoft Sentinel & Splunk (Learning)
 
 ---
 
-## 💻 Tech Stack
+## 📜 Certifications
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
-    <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></td>
-    <td><img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/></td>
-    <td><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></td>
-  </tr>
-</table>
+- ✅ Google Cybersecurity Professional Certificate
+- 🏅 Google Cybersecurity Professional Badge
 
+---
+
+## 🎓 Education
+
+**BSc (Hons) Top-up in Cybersecurity & Networking**
+(Currently Reading)
+
+**Higher National Diploma (HND) in Information Technology**
+
+---
+
+## 💻 Technical Skills
+
+### Security
+
+- SIEM
+- EDR
+- Incident Response
+- Threat Detection
+- Security Operations
+- Network Security
+- Risk Assessment
+- Security Frameworks
+
+### Operating Systems
+
+- Linux
+- Windows
+
+### Networking
+
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- SSH
+- Network Fundamentals
+
+### Programming & Scripting
+
+- Python
+- SQL
+- Bash (Learning)
+
+### Security Tools
+
+- Wireshark
+- Linux CLI
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+📌 Linux Security Notes
+
+📌 SQL for Cybersecurity
+
+📌 TryHackMe Write-ups
+
+📌 Wireshark Packet Analysis
+
+📌 Incident Response Labs
+
+📌 Python Security Scripts
+
+(Projects are continuously being updated.)
+
+---
+
+## 🌱 Currently Learning
+
+- TryHackMe SOC Level 1
+- Splunk
+- Microsoft Sentinel
+- KQL
+- Sigma Rules
+- Detection Engineering
+
+---
+
+## 📈 GitHub Goals (2026)
+
+- Complete 100+ cybersecurity labs
+- Publish SOC investigation reports
+- Build a Blue Team portfolio
+- Share cybersecurity learning resources
+- Contribute to open-source security projects
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akaslam047@gmail.com)
+
+---
+
+## 🛠️ Languages & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Mr-Achchu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://streak-stats.demolab.com?user=Mr-Achchu&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Achchu&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Mr-Achchu&show_icons=true&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Achchu&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Achchu&layout=compact&theme=github_dark)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Mr-Achchu&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💡 Quote
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> "Cybersecurity is not about preventing every attack—it's about detecting, responding, and continuously improving."
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
